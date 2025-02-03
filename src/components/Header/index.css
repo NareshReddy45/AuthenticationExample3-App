@@ -1,0 +1,18 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  height: 60px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  font-size: 18px;
+}
